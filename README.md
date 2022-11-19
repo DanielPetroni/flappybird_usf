@@ -1,16 +1,20 @@
-# flappybird_usf
+# FlappyBird
 
-A new Flutter project.
+# O que é esse projeto?
+É um game criado com intuíto acadêmico usando como base o jogo ja existente.
 
-## Getting Started
+# O que esse projeto faz?
+O game basicamente tem como principal objetivo não deixar o pássaro cair ou bater nos obstaculos.
 
-This project is a starting point for a Flutter application.
+# Qual o motivo para a realização do projeto?
+Foi desenvolvido como um projeto acadêmico do Curso de Análise e Desenvolvimento de Software, pelos alunos da Universidade São Francisco, Polo de Itatiba.
 
-A few resources to get you started if this is your first Flutter project:
+## FrontEnd
+### Flutter
+#### Dependencias
+- GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Desenvolvedores
+- Daniel Petroni
+- Léo da Silva Quallio
+- Professor José Matias Lemes Filho
